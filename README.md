@@ -5,3 +5,9 @@ Tervetuloa Git-koulutuspäivään. Tämän päivän päätavoitteena on oppia, m
 Toivotan sinulle miellyttävää harjoittelua!
 
 marGIT
+
+P.s. Hello Markus!
+
+P.s.s. Hello World!
+
+P.s.s.s. Business College Helsinki rules!
