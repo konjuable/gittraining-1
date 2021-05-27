@@ -5,3 +5,5 @@ Tervetuloa Git-koulutuspäivään. Tämän päivän päätavoitteena on oppia, m
 Toivotan sinulle miellyttävää harjoittelua!
 
 marGIT
+
+P.s. Hello Markus!
